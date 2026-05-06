@@ -67,3 +67,9 @@ console.log(obj1 === obj3);
 let arr1 = [1, 2, 3];
 let arr2 = [1, 2, 3];
 console.log(arr1 === arr2);
+
+
+let a2 = 12;
+let b2 = 15;
+
+console.log(a2 + b2);
