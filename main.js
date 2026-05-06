@@ -14,3 +14,12 @@ value = "теперь это строка";
 console.log(value);
 value = true;
 console.log(value);
+
+let newPrice = 10;
+console.log("Значение:", newPrice);
+console.log("Тип", typeof newPrice);
+
+newPrice = "12";
+
+console.log("Значение:", newPrice);
+console.log("Тип", typeof newPrice);
